@@ -25,7 +25,7 @@ For every problem, I document:
 ├── Easy/
 │   ├── 0001_Two_Sum/
 │   │   ├── solution.py
-│   │   ├── notes.md
+│   │   ├── solution.docx
 │   │   └── README.md
 │   └── ...
 │
